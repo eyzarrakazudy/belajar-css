@@ -1,4 +1,5 @@
 body {
     background-color: #2fe31b;
-    background-image: url(gambar/bg2.png);
+    background-image: url(gambar/gradient.png);
+    background-repeat: repeat-x;
 }
