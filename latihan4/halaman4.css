@@ -9,5 +9,5 @@
 }
 
 .hello:active {
-   color: red; 
+   font-style: italic; 
 }
