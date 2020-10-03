@@ -3,6 +3,11 @@
 }
 
 .hello:hover {
+    color: green;
     font-family: arial;
     font-size: 20px;
+}
+
+.hello:active {
+   color: red; 
 }
