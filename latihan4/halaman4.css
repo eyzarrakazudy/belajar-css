@@ -20,6 +20,6 @@ li:nth-child(even) a:hover {
     color: red;
 }
 
-p:first-child {
+p:first-of-type {
     color: red;
 }
